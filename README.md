@@ -18,3 +18,7 @@ A simple and responsive countdown website that shows the number of days, hours, 
 - JavaScript
 
 ## 📦 Installation
+```bash
+git clone https://github.com/ChinmayKulkarnidotexe/GTA-VI-CountDown
+
+cd GTA-VI-CountDown
