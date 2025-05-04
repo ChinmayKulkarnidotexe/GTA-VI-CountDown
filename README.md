@@ -22,3 +22,5 @@ A simple and responsive countdown website that shows the number of days, hours, 
 git clone https://github.com/ChinmayKulkarnidotexe/GTA-VI-CountDown
 
 cd GTA-VI-CountDown
+```
+Feel free to make any changes and play around since this is **open-source** :)
