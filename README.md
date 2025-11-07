@@ -1,6 +1,6 @@
 # GTA VI CountDown
 
-A simple and responsive countdown website that shows the number of days, hours, minutes, and seconds remaining until **May 26, 2026**.
+A simple and responsive countdown website that shows the number of days, hours, minutes, and seconds remaining until **Nov 19, 2026**.
 
 ![Screenshot](screenshot.png)
 

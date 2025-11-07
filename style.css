@@ -132,3 +132,13 @@ body {
         align-items: center;
     }
 }
+
+.release-date {
+    margin-top: 15px;
+    font-size: 0.8rem;
+    color: #333;
+    font-weight: bold;
+    background-color: #fff;
+    padding: 0px 20px;
+    border-radius: 20px;
+}
