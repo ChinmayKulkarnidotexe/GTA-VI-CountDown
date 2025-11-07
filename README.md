@@ -4,6 +4,9 @@ A simple and responsive countdown website that shows the number of days, hours, 
 
 ![Screenshot](screenshot.png)
 
+## Updates
+ - Release Date has been modified to November 19, 2026 :)
+
 ## 🚀 Features
 
 - Live countdown timer
